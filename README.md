@@ -67,8 +67,7 @@ Offline-first, deterministic NLP engine performing heuristic knowledge extractio
 
 `Python` `FastAPI` `Electron` `TypeScript`
 
-[**Demo →**]([https://study-len-web-eight.vercel.app/](https://sutrr-chi.vercel.app/))
-
+[**Demo →**](https://sutrr-chi.vercel.app/)
 </td>
 <td width="50%" valign="top">
 
